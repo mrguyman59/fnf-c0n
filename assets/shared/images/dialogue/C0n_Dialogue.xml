@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="C0n_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dialog bored0000" x="11" y="11" width="389" height="519"/>
+	<SubTexture name="dialog bored0001" x="405" y="11" width="389" height="518" frameX="0" frameY="-1" frameWidth="389" frameHeight="519"/>
+	<SubTexture name="dialog bored0002" x="799" y="11" width="389" height="518" frameX="0" frameY="-1" frameWidth="389" frameHeight="519"/>
+	<SubTexture name="dialog bored0003" x="1193" y="11" width="389" height="518" frameX="0" frameY="-1" frameWidth="389" frameHeight="519"/>
+	<SubTexture name="dialog happy0000" x="1587" y="11" width="393" height="513"/>
+	<SubTexture name="dialog happy0001" x="11" y="535" width="393" height="511" frameX="0" frameY="-2" frameWidth="393" frameHeight="513"/>
+	<SubTexture name="dialog happy0002" x="409" y="535" width="393" height="511" frameX="0" frameY="-2" frameWidth="393" frameHeight="513"/>
+	<SubTexture name="dialog happy0003" x="807" y="535" width="393" height="511" frameX="0" frameY="-2" frameWidth="393" frameHeight="513"/>
+	<SubTexture name="dialog idle bored0000" x="1205" y="535" width="389" height="518"/>
+	<SubTexture name="dialog idle happy0000" x="1599" y="535" width="393" height="511"/>
+	<SubTexture name="dialog idle normal0000" x="11" y="1058" width="393" height="511"/>
+	<SubTexture name="dialog normal0000" x="409" y="1058" width="393" height="513"/>
+	<SubTexture name="dialog normal0001" x="807" y="1058" width="393" height="511" frameX="0" frameY="-2" frameWidth="393" frameHeight="513"/>
+	<SubTexture name="dialog normal0002" x="1205" y="1058" width="393" height="511" frameX="0" frameY="-2" frameWidth="393" frameHeight="513"/>
+	<SubTexture name="dialog normal0003" x="1603" y="1058" width="393" height="511" frameX="0" frameY="-2" frameWidth="393" frameHeight="513"/>
+</TextureAtlas>

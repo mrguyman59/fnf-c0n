@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "c0n",
+			"boxState": "normal",
+			"expression": "talk-happy",
+			"text": "Hey everyone! It's me, C0n! Everybody's favorite OC!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.065,
+			"portrait": "c0n",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh? Who are you?"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "c0n",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend, huh? What are you doing here, Boyfriend?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep bo bap scoop pop bam"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "c0n",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A... a rap battle?"
+		},
+		{
+			"speed": 0.16,
+			"portrait": "c0n",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "c0n",
+			"boxState": "normal",
+			"expression": "talk-happy",
+			"text": "Sure!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "c0n",
+			"boxState": "normal",
+			"expression": "talk-bored",
+			"text": "Not like I've got anything else to do..."
+		}
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Con Hey"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Con Idle"
+		},
+		{
+			"offsets": [
+				42,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Con Left"
+		},
+		{
+			"offsets": [
+				-27,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Con Right"
+		},
+		{
+			"offsets": [
+				40,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Con Up"
+		},
+		{
+			"offsets": [
+				-32,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Con Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/C0n",
+	"position": [
+		-40,
+		230
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		100,
+		55
+	],
+	"camera_position": [
+		10,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

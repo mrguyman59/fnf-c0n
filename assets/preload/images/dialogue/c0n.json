@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		70,
+		80
+	],
+	"scale": 1.2,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				-2
+			],
+			"loop_name": "dialog normal",
+			"idle_name": "dialog idle normal"
+		},
+		{
+			"loop_name": "dialog bored",
+			"idle_offsets": [
+				-15,
+				3
+			],
+			"idle_name": "dialog idle bored",
+			"anim": "talk-bored",
+			"loop_offsets": [
+				-15,
+				4
+			]
+		},
+		{
+			"loop_name": "dialog happy",
+			"idle_offsets": [
+				0,
+				-1
+			],
+			"idle_name": "dialog idle happy",
+			"anim": "talk-happy",
+			"loop_offsets": [
+				0,
+				-1
+			]
+		}
+	],
+	"image": "C0n_Dialogue"
+}
